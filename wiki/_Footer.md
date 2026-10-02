@@ -1,0 +1,1 @@
+PuntoColf — sviluppato da **MindContact** per **Labor&Co S.R.L.** · [Termini](https://github.com/punto-colf/punto-colf-docs/blob/master/legal/termini-di-servizio.md) · [Privacy](https://github.com/punto-colf/punto-colf-docs/blob/master/legal/privacy-policy.md)
